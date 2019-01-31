@@ -6,6 +6,10 @@ _Rule over your subjects in LabKey_
 
 ## Building the project
 
+**Important**
+Currently this project MUST be built using node < v7.
+The easiest way to acheive this is to use [NVM](https://github.com/creationix/nvm).
+
 The build process does a few things:
 
 1. Compiles your ES6 JavaScript into a single ES5-compatible file in the web resources directory (this is what you reference in your HTML).
