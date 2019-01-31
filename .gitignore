@@ -6,3 +6,4 @@
 /dist/
 /.vagrant/
 /coverage/
+.idea
